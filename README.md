@@ -1,4 +1,6 @@
 # H5-Demo
+
+```
 /**
  * @description: 时间日期
  * @param date
@@ -72,3 +74,5 @@ export {
     checkPhone,
     environMent
 }
+```
+
